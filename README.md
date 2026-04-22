@@ -9,9 +9,9 @@
 | Dataset ID | `404244` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 46 records |
-| Free sample size | 4 records (8.7%) |
-| Last export | 2026-04-15T06:51:07.503097+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-22T13:18:54.391050+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-montana-us-sample-404244/releases/download/sample-latest/beamstation_404244_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
