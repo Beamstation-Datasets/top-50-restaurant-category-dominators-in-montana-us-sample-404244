@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Montana, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `404244` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 40 records |
-| Free sample size | 4 records (10.0%) |
-| Last export | 2026-04-22T13:18:54.391050+00:00 |
+| Full dataset size | 53 records |
+| Free sample size | 5 records (9.43%) |
+| Last export | 2026-04-29T14:06:11.367474+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-montana-us-sample-404244/releases/download/sample-latest/beamstation_404244_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
