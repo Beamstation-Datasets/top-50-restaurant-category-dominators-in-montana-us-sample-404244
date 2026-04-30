@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5b45a35c-ed47-435e-9f5f-e26c03a84ce9",
+  "export_job_id": "2867ab4e-2d97-4e9a-b226-f13ab96fb5a8",
   "id_short": 404244,
-  "published_at": "2026-04-22T19:41:19Z",
+  "published_at": "2026-04-30T07:24:00Z",
   "repo_name": "top-50-restaurant-category-dominators-in-montana-us-sample-404244",
   "sample_asset_name": "beamstation_404244_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/404244/beamstation_404244_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "a5505c0f651761675f9530cd44b7d973f556f8f33d1a4f257a6fa319fb35ab33",
-  "sample_size_bytes": 31639,
-  "total_records": 40
+  "sample_records": 5,
+  "sample_sha256": "87a986015d8989845e23df39a9c756bd95817dbdabdf140750d80bf94ddd125d",
+  "sample_size_bytes": 35064,
+  "total_records": 53
 }
